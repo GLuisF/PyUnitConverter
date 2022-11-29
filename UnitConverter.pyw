@@ -82,4 +82,3 @@ while True:  # Event Loop
             window['-EIA2-'].update('')
 
 window.close()
-
